@@ -1,1 +1,1 @@
-# COLLEGE-PROJECT
+# fitness-app
